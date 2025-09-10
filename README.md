@@ -39,12 +39,3 @@ This project is a work in progress. I am actively building and testing different
     * **Hybrid Approach**: The project explores combining the predictions of different models to create a more stable and accurate final forecast.
 4.  **Model Evaluation**: The performance of each model is rigorously tested on a held-out test set using the specified metrics.
 
----
-
-### Getting Started
-
-**1. Clone the repository:**
-
-```bash
-git clone [https://github.com/itskgs/StockPricePrediction.git](https://github.com/itskgs/StockPricePrediction.git)
-cd StockPricePrediction
